@@ -1,4 +1,4 @@
-# Number_Of_Island
+# Contains_Duplicate
 LeetCode Contains Duplicate Problem solution in Java
 
 Question - 
